@@ -67,9 +67,6 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:G.NITIN Karthikeyan
-
-### Register Number:212224040227
 ```
 import torch
 import torch.nn as nn
